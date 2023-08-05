@@ -5,11 +5,11 @@
 -- Note! You shout NOT do this for normal mod loading. Please use the Mods menu
 -- from the main screen instead.
 
---ForceEnableMod("kioskmode_dst")
-ForceEnableMod("351325790")
-ForceEnableMod("378160973")
-ForceEnableMod("1651623054")
-ForceEnableMod("666155465")
+-- ForceEnableMod("kioskmode_dst")
+-- ForceEnableMod("351325790")
+-- ForceEnableMod("378160973")
+-- ForceEnableMod("1651623054")
+-- ForceEnableMod("666155465")
 
 
 -- Use "EnableModDebugPrint()" to show extra information during startup.
